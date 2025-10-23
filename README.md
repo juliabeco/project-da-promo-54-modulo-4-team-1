@@ -44,7 +44,11 @@ Autoría compartida con enfoque en divulgación.
 🧠 AUTORAS
 
 María del Mar Pastor (https://github.com/
+
 Esther Domínguez (https://github.com/EstherDE135)
+
 Iris Barredo del Sol (https://github.com/irisbdelsol)
+
 Julia Becaria Coquet (https://github.com/juliabeco)
+
 Alejandra Martín (https://github.com/al3msvll)
