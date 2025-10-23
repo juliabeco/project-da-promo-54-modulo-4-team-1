@@ -13,6 +13,9 @@ GitHub – Para control de versiones y colaboración.
 Practicar el análisis exploratorio de datos.
 
 
+
+
+
 Estructura del proyecto:
 
 📁 Dataset
@@ -27,11 +30,16 @@ Se han utilizado las siguientes bases de datos:
 🤓 Conclusiones:
 
 
+
+
+
+
 📚 Licencia
 
 Este proyecto es de uso educativo, sin fines comerciales.
 
 Autoría compartida con enfoque en divulgación.
+
 
 🧠 AUTORAS
 
