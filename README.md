@@ -33,11 +33,11 @@ En esta fase final nos dedicamos a pulir el formato general de la presentacion p
 
 ## 👩‍💻 Tecnologías utilizadas
 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
@@ -52,8 +52,8 @@ project-da-promo-54-modulo-4-team-1/
 │
 ├── .gitignore                    # Archivo de exclusión para Git
 │
-├── dashboard/                    # Carpeta con el archivo final de Power BI
-│   └── Dashboard.pbix            # Dashboard interactivo generado en Power BI
+├── Dashboard.pbix                # Dashboard interactivo generado en Power BI             
+│     
 │
 ├── images/                       # Imágenes utilizadas en el dashboard y presentación
 │   ├── casa_ant.png
@@ -113,11 +113,11 @@ Este proyecto requiere Python 3.8 o superior y PowerBI desktop.
 
 - Ejemplo 1:
 
-![inicio](images\Inicio.PNG)
+![inicio](images\Inicio.png)
 
 - Ejemplo 2:
   
-![educacion_ingresos](images\educacion_ingresos.PNG)
+![educacion_ingresos](images\educacion_ingresos.png)
 
 ---
 
