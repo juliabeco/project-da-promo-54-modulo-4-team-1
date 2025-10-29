@@ -113,11 +113,11 @@ Este proyecto requiere Python 3.8 o superior y PowerBI desktop.
 
 - Ejemplo 1:
 
-![inicio](images\Inicio.PNG)
+![inicio](images/Inicio.PNG)
 
 - Ejemplo 2:
   
-![educacion_ingresos](images\educacion_ingresos.PNG)
+![educacion_ingresos](images/educacion_ingresos.PNG)
 
 ---
 
