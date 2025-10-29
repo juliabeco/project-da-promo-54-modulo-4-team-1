@@ -54,8 +54,7 @@ project-da-promo-54-modulo-4-team-1/
 │
 ├── Dashboard.pbix                # Dashboard interactivo generado en Power BI             
 │     
-│
-├── images/                       # Imágenes utilizadas en el dashboard y presentación
+├── imagenes/                     # Imágenes utilizadas en el dashboard y presentación
 │   ├── casa_ant.png
 │   ├── casa_hoy.PNG
 │   ├── Inicio.png
@@ -71,9 +70,9 @@ project-da-promo-54-modulo-4-team-1/
 │   ├── EDA_dataset.ipynb         # Análisis exploratorio de datos
 │   └── Visualizaciones.ipynb     # Generación de gráficos y nubes de palabras
 │
-└──  resources/                    # Datos brutos y limpios utilizados
-    ├── adult.csv                 # Dataset original (adult)
-    ├── adult_limpio.csv          # Dataset limpio y preparado
+└──  resources/                            # Datos brutos y limpios utilizados
+    ├── adult.csv                          # Dataset original (adult)
+    ├── adult_limpio.csv                   # Dataset limpio y preparado
     ├── EMSI_MillenialsvsBabyBoomers.xlsx  # Fuente adicional de ingresos por generación
     ├── generaciones.csv
     ├── home-ownership-by-country-2025.csv
@@ -94,7 +93,7 @@ Este proyecto requiere Python 3.8 o superior y PowerBI desktop.
 1. Clonar el repositorio:
 
 - git clone https://github.com/juliabeco/project-da-promo-54-modulo-4-team-1.git
-- cd .\notebook\src\
+- cd .\notebook
 
 2. Ejecutar el codigo para realizar la limpieza del CSV
 
