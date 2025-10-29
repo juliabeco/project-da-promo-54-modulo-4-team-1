@@ -40,7 +40,6 @@ En esta fase final nos dedicamos a pulir el formato general de la presentacion p
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-
 ---
 
 ## 📁 Estructura del repositorio
@@ -48,13 +47,13 @@ En esta fase final nos dedicamos a pulir el formato general de la presentacion p
 ```
 project-da-promo-54-modulo-4-team-1/
 │
-├── README.md                     # Documentación principal del proyecto
+├── README.md                             # Documentación principal del proyecto
 │
-├── .gitignore                    # Archivo de exclusión para Git
+├── .gitignore                            # Archivo de exclusión para Git
 │
-├── Dashboard.pbix                # Dashboard interactivo generado en Power BI             
+├── Dashboard.pbix                        # Dashboard interactivo generado en Power BI             
 │     
-├── imagenes/                     # Imágenes utilizadas en el dashboard y presentación
+├── imagenes/                             # Imágenes utilizadas en el dashboard y presentación
 │   ├── casa_ant.png
 │   ├── casa_hoy.PNG
 │   ├── Inicio.png
@@ -63,12 +62,12 @@ project-da-promo-54-modulo-4-team-1/
 │   ├── laboral_blue.png
 │   ├── logo.png
 │   ├── ocup_blue.png
-│   ├── wordcloud_blue.png        # Nube de palabras generada en Python
-│   └── wordcloud_green.png       # Nube de palabras alternativa
+│   ├── wordcloud_blue.png                 # Nube de palabras generada en Python
+│   └── wordcloud_green.png                # Nube de palabras alternativa
 │
-├── notebook/                     # Notebooks de análisis exploratorio y visualización
-│   ├── EDA_dataset.ipynb         # Análisis exploratorio de datos
-│   └── Visualizaciones.ipynb     # Generación de gráficos y nubes de palabras
+├── notebook/                              # Notebooks de análisis exploratorio y visualización
+│   ├── EDA_dataset.ipynb                  # Análisis exploratorio de datos
+│   └── Visualizaciones.ipynb              # Generación de gráficos y nubes de palabras
 │
 └──  resources/                            # Datos brutos y limpios utilizados
     ├── adult.csv                          # Dataset original (adult)
@@ -108,7 +107,6 @@ Este proyecto requiere Python 3.8 o superior y PowerBI desktop.
 ---
 
 ## 📷 Algunas visualizaciones del dashboard 
-
 
 - Ejemplo 1:
 
