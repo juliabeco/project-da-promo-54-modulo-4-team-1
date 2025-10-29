@@ -1,4 +1,5 @@
-# 📊 Proyecto Las Millennials 
+# Proyecto Dátikas
+![Dátikas](images/logo.png)
 
 Los Baby Boomers alcanzaron la edad de compra en el momento de mayor expansión de propiedad en Estados Unidos, con tasas promedio cercanas al 67%. En contraste, los Millennials enfrentaron tasas más bajas y precios más altos, reflejando una caída en la accesibilidad habitacional. 
 
@@ -32,32 +33,57 @@ En esta fase final nos dedicamos a pulir el formato general de la presentacion p
 
 ## 👩‍💻 Tecnologías utilizadas
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-(Faltaria buscar iconos de: Power BI, GitHub y PowerQuery)
 
 ---
 
 ## 📁 Estructura del repositorio
 
 ```
-project-da-promo-54-modulo-4-team-1
+project-da-promo-54-modulo-4-team-1/
 │
-├── README.md
+├── README.md                     # Documentación principal del proyecto
 │
-├── data/ (revisar la estructura final y archivos)
-│   ├── adult_limpio.csv
-│   ├── adult.csv
-│   └── ingresos_generacionales_usa_2025.csv
+├── .gitignore                    # Archivo de exclusión para Git
 │
-├── notebook/
-│   ├── .gitignore
-│   └── EDA_dataset.ipynb
+├── dashboard/                    # Carpeta con el archivo final de Power BI
+│   └── Dashboard.pbix            # Dashboard interactivo generado en Power BI
 │
-├── archivo PowerBI/ (revisar la estructura final y nombre del archivo)
-│   └── visualizaciones_adults_limpio.pbix
+├── images/                       # Imágenes utilizadas en el dashboard y presentación
+│   ├── casa_ant.png
+│   ├── casa_hoy.PNG
+│   ├── Inicio.png
+│   ├── educacion_ingresos.png
+│   ├── gen_blue.png
+│   ├── laboral_blue.png
+│   ├── logo.png
+│   ├── ocup_blue.png
+│   ├── wordcloud_blue.png        # Nube de palabras generada en Python
+│   └── wordcloud_green.png       # Nube de palabras alternativa
 │
-└── screenshots/
+├── notebook/                     # Notebooks de análisis exploratorio y visualización
+│   ├── EDA_dataset.ipynb         # Análisis exploratorio de datos
+│   └── Visualizaciones.ipynb     # Generación de gráficos y nubes de palabras
+│
+└──  resources/                    # Datos brutos y limpios utilizados
+    ├── adult.csv                 # Dataset original (adult)
+    ├── adult_limpio.csv          # Dataset limpio y preparado
+    ├── EMSI_MillenialsvsBabyBoomers.xlsx  # Fuente adicional de ingresos por generación
+    ├── generaciones.csv
+    ├── home-ownership-by-country-2025.csv
+    ├── household_income.csv
+    ├── ingresos_generacionales_usa_2025.csv
+    ├── median_income_by_year.csv
+    ├── ownership_house.csv
+    ├── precio_vivienda_usa_1940_2024.csv
+    ├── world_population.csv
+    └── world_population_total.csv
 ```
 ---
 
@@ -72,7 +98,26 @@ Este proyecto requiere Python 3.8 o superior y PowerBI desktop.
 
 2. Ejecutar el codigo para realizar la limpieza del CSV
 
-3. Abrir el archivo de PowerBI (ruta y nombre del archivo final) para iterar con las visualizaciones
+3. Abrir el archivo de PowerBI  ['Dashboard']('Dashboard.pbix') para interactuar con las visualizaciones.
+
+---
+
+## ✅ Status del proyecto
+
+✅ Finalizado
+
+---
+
+## 📷 Algunas visualizaciones del dashboard 
+
+
+- Ejemplo 1:
+
+![inicio](images\Inicio.PNG)
+
+- Ejemplo 2:
+  
+![educacion_ingresos](images\educacion_ingresos.PNG)
 
 ---
 
@@ -83,33 +128,5 @@ Este proyecto requiere Python 3.8 o superior y PowerBI desktop.
 - [Iris Barredo del Sol - Scrum Master y Equipo desarrolador](https://github.com/irisbdelsol)
 - [Julia Becaria Coquet - Equipo desarrolador](https://github.com/juliabeco)
 - [Mar Pastor - Equipo desarrolador](https://github.com/MarPastor)
-
----
-
-## ✅ Status del proyecto
-
-En proceso.
-
----
-
-## 📷 Visualizaciones relevantes (screenshots)
-
-Algunas visualizaciones que muestran los resultados del analisis de los datos. Estas imagenes se ubican en la carpeta ubicada en [screenshots](completar la direccion web de la carpeta cuando esten todas las visualziaciones).
-
-- Ejemplo 1:
-
-![Ejemplo_01](el link de la web donde esta la imagen)
-
----
-
-## 🤓 Conclusiones
-
-(Storytelling)
-
----
-
-## 📚 Licencia
-
-Este proyecto es de uso educativo, sin fines comerciales. Autoría compartida con enfoque en divulgación.
 
 ---
