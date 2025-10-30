@@ -1,5 +1,5 @@
 # Proyecto Dátikas
-![Dátikas](images/logo.png)
+![Dátikas](imagenes/logo.png)
 
 Los Baby Boomers alcanzaron la edad de compra en el momento de mayor expansión de propiedad en Estados Unidos, con tasas promedio cercanas al 67%. En contraste, los Millennials enfrentaron tasas más bajas y precios más altos, reflejando una caída en la accesibilidad habitacional. 
 
@@ -112,11 +112,11 @@ Este proyecto requiere Python 3.8 o superior y PowerBI desktop.
 
 - Ejemplo 1:
 
-![inicio](images/Inicio.PNG)
+![inicio](imagenes/Inicio.PNG)
 
 - Ejemplo 2:
   
-![educacion_ingresos](images/educacion_ingresos.PNG)
+![educacion_ingresos](imagenes/educacion_ingresos.PNG)
 
 ---
 
