@@ -69,19 +69,21 @@ project-da-promo-54-modulo-4-team-1/
 │   ├── EDA_dataset.ipynb                  # Análisis exploratorio de datos
 │   └── Visualizaciones.ipynb              # Generación de gráficos y nubes de palabras
 │
-└──  resources/                            # Datos brutos y limpios utilizados
-    ├── adult.csv                          # Dataset original (adult)
-    ├── adult_limpio.csv                   # Dataset limpio y preparado
-    ├── EMSI_MillenialsvsBabyBoomers.xlsx  # Fuente adicional de ingresos por generación
-    ├── generaciones.csv
-    ├── home-ownership-by-country-2025.csv
-    ├── household_income.csv
-    ├── ingresos_generacionales_usa_2025.csv
-    ├── median_income_by_year.csv
-    ├── ownership_house.csv
-    ├── precio_vivienda_usa_1940_2024.csv
-    ├── world_population.csv
-    └── world_population_total.csv
+├── resources/                             # Datos brutos y limpios utilizados
+│   ├── adult.csv                          # Dataset original (adult)
+│   ├── adult_limpio.csv                   # Dataset limpio y preparado
+│   ├── EMSI_MillenialsvsBabyBoomers.xlsx  # Fuente adicional de ingresos por generación
+│   ├── generaciones.csv
+│   ├── home-ownership-by-country-2025.csv
+│   ├── household_income.csv
+│   ├── ingresos_generacionales_usa_2025.csv
+│   ├── median_income_by_year.csv
+│   ├── ownership_house.csv
+│   ├── precio_vivienda_usa_1940_2024.csv
+│   ├── world_population.csv
+│   └── world_population_total.csv
+│
+└──  guion_presentacion_final.docx
 ```
 ---
 
